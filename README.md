@@ -1,2 +1,2 @@
-# beep-adroid
+# beep-android
 Android native app
